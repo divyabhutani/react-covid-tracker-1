@@ -2,7 +2,7 @@
   "name": "covid-19-tracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": " http://divyabhutani.github.io/react-covid-tracker1/",
+  "homepage": " https://divyabhutani.github.io/react-covid-tracker-1/",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@testing-library/jest-dom": "^4.2.4",
@@ -40,5 +40,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "description": "Check out our `Profit With JavaScript Course`    :point_down:",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divyabhutani/react-covid-tracker-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/divyabhutani/react-covid-tracker-1/issues"
   }
 }
