@@ -3,13 +3,13 @@
 }
 
 body {
-  background-color: #f5f6fa;
+  background-color: #21ad2d;
 }
 
 .app {
   display: flex;
   justify-content: space-evenly;
-  background-color: #f5f6fa;
+  background-color:  #133ad8;
   padding: 20px;
 }
 
