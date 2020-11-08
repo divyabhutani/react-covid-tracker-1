@@ -1,8 +1,8 @@
 .table {
   margin-top: 20px;
   overflow: scroll;
-  color:  #3af7f7;
-  background-color: #2cc7cc;
+  color:  #0b6969;
+  background-color: rgb(117, 179, 207);
 ;
   height: 400px;
 }
@@ -18,5 +18,5 @@
 }
 
 .table tr:nth-of-type(odd) {
-  background-color: #f3f2f8;
+  background-color:  #d672c9;
 }
